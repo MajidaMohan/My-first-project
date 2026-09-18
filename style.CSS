@@ -1,0 +1,18 @@
+
+img {width: 200px;
+    display: block;
+    margin: auto}
+img{width: 200px}
+img{width: 150px}
+body{background-color: purple }
+h1{color:pink; font-size:36px}
+h2{color:grey}
+h3{color:pink}
+p{color:grey}
+ul{color:white;}
+ol{color:white;}
+
+h4 {
+  color: pink;
+  font-size: 24px;
+  text-align: center;}
